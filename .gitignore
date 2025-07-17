@@ -1,6 +1,5 @@
 __pycache__/
 .env
 *.pkl
-*.csv
 *.json
 notebooks/trials.ipynb
