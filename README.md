@@ -129,7 +129,7 @@ Then we scaled the `score_raw` using `MinMaxScaler` to get a score between 0 and
 
 ## 📧 Credits
 
-Developed by: **[Your Name]**  
+Developed by: **Mohammed Zubin Essudeen**  
 For internship task using **Aave V2 Polygon Dataset**
 
 ---
