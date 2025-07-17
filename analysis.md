@@ -32,8 +32,6 @@ The following table shows how many wallets fall into each score range bucket:
 | 800–900     |  5               |
 | 900–1000    |  2               |
 
-> *(You can generate this table using the code provided below)*
-
 ---
 
 ## 🔍 Behavior of Wallets by Score
