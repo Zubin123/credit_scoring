@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ### 🔹 Step 2: Run the scoring script
 
 ```bash
-python run_scoring.py --input data/user_transactions.json --output outputs/wallet_scores.csv
+python run_scoring.py 
 ```
 
 This will:
@@ -96,7 +96,7 @@ Then we scaled the `score_raw` using `MinMaxScaler` to get a score between 0 and
 
 ## 📊 Key Observations (See `analysis.md`)
 
-- Majority of wallets fall in the **100–400 score range**
+- Majority of wallets fall in the **400–800 score range**
 - Very few wallets scored above **900**, indicating rare responsible behavior
 - High scorers typically:
   - Repay more than they borrow
